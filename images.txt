@@ -6,3 +6,15 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 xiaoyaliu/alist
 haroldli/alist-tvbox
+cnk3x/xunlei
+p3terx/aria2-pro
+xhofe/alist
+emby/embyserver
+emby/embyserver_arm32v7
+jellyfin/jellyfin
+tailscale/tailscale
+mzz2017/v2raya
+linkease/ddnsto
+linuxserver/transmission
+mariadb
+shinsenter/phpfpm-nginx
