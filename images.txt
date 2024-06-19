@@ -1,20 +1,16 @@
-nginx
-#支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
-#支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
-xiaoyaliu/alist
-haroldli/alist-tvbox
-cnk3x/xunlei
-p3terx/aria2-pro
-xhofe/alist
-emby/embyserver
-emby/embyserver_arm32v7
-jellyfin/jellyfin
-tailscale/tailscale
-mzz2017/v2raya
-linkease/ddnsto
-linuxserver/transmission
-mariadb
-shinsenter/phpfpm-nginx
+--platform=linux/arm/v8 xiaoyaliu/alist
+--platform=linux/arm/v8 haroldli/alist-tvbox
+--platform=linux/arm/v8 cnk3x/xunlei
+--platform=linux/arm/v8 p3terx/aria2-pro
+--platform=linux/arm/v8 xhofe/alist
+--platform=linux/arm/v8 emby/embyserver
+--platform=linux/arm/v8 emby/embyserver_arm32v7
+--platform=linux/arm/v8 jellyfin/jellyfin
+--platform=linux/arm/v8 tailscale/tailscale
+--platform=linux/arm/v8 mzz2017/v2raya
+--platform=linux/arm/v8 linkease/ddnsto
+--platform=linux/arm/v8 linuxserver/transmission
+--platform=linux/arm/v8 mariadb
+--platform=linux/arm/v8 shinsenter/phpfpm-nginx
+--platform=linux/arm/v8 portainer/portainer
+--platform=linux/arm/v8 portainer/portainer-ce
