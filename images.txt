@@ -3,8 +3,6 @@
 --platform=linux/arm64 cnk3x/xunlei
 --platform=linux/arm64 p3terx/aria2-pro
 --platform=linux/arm64 xhofe/alist
---platform=linux/arm64 emby/embyserver
-emby/embyserver_arm32v7
 --platform=linux/arm64 jellyfin/jellyfin
 --platform=linux/arm64 tailscale/tailscale
 --platform=linux/arm64 mzz2017/v2raya
@@ -14,3 +12,5 @@ emby/embyserver_arm32v7
 --platform=linux/arm64 shinsenter/phpfpm-nginx
 --platform=linux/arm64 portainer/portainer
 --platform=linux/arm64 portainer/portainer-ce
+emby/embyserver
+emby/embyserver_arm32v7
